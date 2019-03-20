@@ -12,3 +12,5 @@ A Generic map boilerplate.
     Redis (Sessions)
     
 ___    
+
+>FrontEnd written is in Nextjs and is comming soon..
