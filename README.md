@@ -9,5 +9,6 @@ This is just purley the backend.
     Apollo Server (Graphql server)
     Postgrest DB
     Postgid (Geolocaion and Calculation)
-    Redis (for Session)
+    Redis (for Sessions)
     
+[]FrontEnd comming soon..
