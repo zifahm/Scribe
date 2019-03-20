@@ -9,7 +9,7 @@ A Generic map boilerplate.
     Typegraphql 
     Apollo Server (Graphql server)
     Postgrest DB
-    Postgis (Geolocaion and Calculation)
+    Postgis (Geolocaion and Calculations)
     Redis (Sessions)
     
 ___    
