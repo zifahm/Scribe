@@ -12,7 +12,7 @@
   "scripts": {
     "rmraf": "rm -rf ./packages/**/node_modules &&  rm -rf ./node_modules",
     "prettier": "prettier --write \"**/*\"",
-    "precommit": "yarn prettier && tsc -p ./packages/web/",
+    "precommit": "yarn prettier ",
     "prepush": " yarn precommit"
   },
   "resolutions": {
