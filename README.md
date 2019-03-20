@@ -1,7 +1,7 @@
 # Scribe
 A Generic map boilerplate.
 
-This is just purley the backend.
+> This is just purley the backend.
 
 ## Tech Stack
     Typeorm (an orm for postgres)
@@ -11,4 +11,5 @@ This is just purley the backend.
     Postgid (Geolocaion and Calculation)
     Redis (for Sessions)
     
-[]FrontEnd comming soon..
+___    
+ FrontEnd comming soon..
