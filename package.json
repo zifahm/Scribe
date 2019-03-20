@@ -1,0 +1,24 @@
+{
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ],
+    "nohoist": [
+      "**/typeorm",
+      "**/typeorm/**"
+    ]
+  },
+  "scripts": {
+    "rmraf": "rm -rf ./packages/**/node_modules &&  rm -rf ./node_modules",
+    "prettier": "prettier --write \"**/*\"",
+    "precommit": "yarn prettier && tsc -p ./packages/web/",
+    "prepush": " yarn precommit"
+  },
+  "resolutions": {
+    "graphql": "14.1.1"
+  },
+  "devDependencies": {
+    "husky": "^1.3.1"
+  }
+}

@@ -1,0 +1,8 @@
+.git/
+.gitignore
+.prettierignore
+.env
+
+static/
+.next/
+yarn.lock
