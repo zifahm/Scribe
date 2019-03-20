@@ -8,8 +8,7 @@ A Generic map boilerplate.
     Typegraphql 
     Apollo Server (Graphql server)
     Postgrest DB
-    Postgid (Geolocaion and Calculation)
-    Redis (for Sessions)
+    Postgis (Geolocaion and Calculation)
+    Redis (Sessions)
     
 ___    
- FrontEnd comming soon..
