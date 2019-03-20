@@ -13,4 +13,4 @@ A Generic map boilerplate.
     
 ___    
 
->FrontEnd written is in Nextjs and is comming soon..
+>FrontEnd is written in Nextjs and its comming soon..
