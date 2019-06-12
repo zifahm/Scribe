@@ -21,7 +21,7 @@ export class SignS3 {
     fileInfo.map(async (info: FileInfo) => {
       const params = {
         ACL: "private",
-        Bucket: "scribecushion.com/studioImages",
+        Bucket: "yourSite.com/folderName",
         Key: info.name,
         Expires: 60,
         ContentType: info.type
